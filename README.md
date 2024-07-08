@@ -14,24 +14,3 @@ On this GitHub page, you will find projects that showcase the skills and knowled
 Feel free to explore my repositories to see my work and contributions. Below is an example of some LaTeX formatted text demonstrating my interests in data science and software engineering:
 
 ```latex
-\documentclass{article}
-\usepackage{amsmath}
-\usepackage{amsfonts}
-\usepackage{graphicx}
-
-\begin{document}
-
-\title{Exploring the World of Data Science and Software Engineering}
-\author{Alian Zulfiqar Ali}
-\date{\today}
-\maketitle
-
-\section{Introduction}
-As a student in the field of computer science, I have developed a strong interest in both data science and software engineering. Through various projects, I have honed my skills and applied theoretical knowledge to practical scenarios.
-
-\section{Software Engineering}
-Software engineering is the systematic application of engineering approaches to the development of software. It involves the use of principles from computer science and mathematics to create reliable, efficient, and scalable software systems.
-
-\section{Data Science}
-Data science is an interdisciplinary field that uses
-
